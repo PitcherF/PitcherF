@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @PitcherF
-- 👀 I’m interested in looking for cool stuff
-- 🌱 I’m currently learning really anything simple
+- Sup, I’m @PitcherF or Alexy (or Blackfox is either of us are feeling a little edgy)
+- I’m interested in a dynamic environemnt for learning and practice, and a community as well
+- I also am in search of cool little widgets, extensions, etc. to make life easier
+- I’m currently learning JAVA
+- I know bare bones C++
 
 
 <!---
